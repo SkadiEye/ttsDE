@@ -1,0 +1,16 @@
+Package: ttsDE
+Type: Package
+Title: A tail-based test statistics (TTS) for differential expression detection
+Version: 0.1.0
+Authors@R: 
+    person(given = "Xinlei",
+           family = "Mi",
+           role = c("aut", "cre"),
+           email = "xm2231@cumc.columbia.edu",
+           comment = c(ORCID = "0000-0002-2966-3217"))
+Description: A tail-based test statistics (TTS) for differential expression detection.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.0.0), doParallel, foreach, nlme, quantreg
+RoxygenNote: 7.1.0
