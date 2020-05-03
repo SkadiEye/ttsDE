@@ -1,7 +1,7 @@
 ttsDE
 ================
 
-**ttsDE**, a **T**ail-based **T**est **S**tatistics (TTS) for **D**ifferential **E**xpression Detection (paper submitted).
+**ttsDE**, a **T**ail-based **T**est **S**tatistics (TTS) for **D**ifferential **E**xpression detection (paper submitted).
 
 # Installation
 
