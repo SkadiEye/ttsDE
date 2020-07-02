@@ -45,8 +45,8 @@ TTS <- function(n, j, data, tau) {
   trt <- (1:50)*2 - 1
   con <- (1:50)*2
 
-  ei <- stats::residuals(quantreg::rq(fmla, tau = tau))
-  parm <- summary(quantreg::rq(fmla, tau = tau))
+  ei <- stats::residuals(suppressWarnings(quantreg::rq(fmla, tau = tau)))
+  parm <- summary(suppressWarnings(quantreg::rq(fmla, tau = tau)))
   #   parm$coef[,1]<-c(4,0,1)
   #   ei<-data$res
 
