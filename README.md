@@ -1,4 +1,4 @@
-ttsDE
+ttsDE [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4595928.svg)](https://doi.org/10.5281/zenodo.4595928)
 ================
 
 **ttsDE**, A tail-based test statistics (TTS) for differentially
